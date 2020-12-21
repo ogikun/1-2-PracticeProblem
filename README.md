@@ -1,4 +1,4 @@
-# 1-2-PracticeProblem
+# Problem1-2
 
 HTML・CSS の練習のため作成
 
